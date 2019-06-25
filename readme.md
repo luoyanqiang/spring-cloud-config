@@ -1,0 +1,1 @@
+这是spring cloud config的配置中心文件
